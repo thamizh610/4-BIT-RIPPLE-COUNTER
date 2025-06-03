@@ -31,8 +31,8 @@ Use the Waveform Editor to assign nodes for clk, rstn, and out.
 Simulate the design with different clk and rstn combinations to generate the timing diagram, and save the results.
 **PROGRAM**
 ```
-Developed by: RISHI M
-RegisterNumber: 212222230119
+Developed by: THAMIZARASAN S
+RegisterNumber: 212223220116
 ```
 
 ```
